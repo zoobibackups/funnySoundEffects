@@ -1,0 +1,6 @@
+key store path: E:\AndroidStudioApplications\VoiceChangerFunnyEffects(sheafonda)\keystore.jks
+password: sheafonda
+
+Alias: key1
+password:sheafonda
+
